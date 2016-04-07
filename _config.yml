@@ -1,10 +1,10 @@
 # Site settings
-title:       Goodalexander
-email:       goodalexander@gmail.com
+title:       Chatterwise
+email:       alex@perpetualabs.com
 author:      Alex Good
-description: "My journey to ulimtae life hacking."
+description: "Algorithmically parsing social media to find the best products on earth"
 baseurl:     ""
-url:         "http://goodalexander.com"
+url:         "http://chatterwise.com"
 date_format: "%b %-d, %Y"
 
 # Google services
